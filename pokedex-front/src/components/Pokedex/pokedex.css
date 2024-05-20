@@ -1,0 +1,13 @@
+.main-container {
+    background: #fff url('https://static.vecteezy.com/system/resources/previews/007/215/421/original/transparent-background-grey-and-white-squares-wallpaper-seamless-grid-pattern-free-vector.jpg');
+    height: 100%;
+}
+.pokedex-title{
+    height: 37.500px;
+    padding-top: 25px;
+    padding-bottom: 16px;
+}
+
+.pokedex-header{
+    background: #313131;
+}
